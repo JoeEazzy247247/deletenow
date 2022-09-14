@@ -33,8 +33,8 @@ namespace deletenow.StepDefinitions
         [Then(@"I am on Elements page")]
         public void ThenIAmOnElementsPage()
         {
-            elementsPage.GetHeaderTxt2();
-            Console.WriteLine(elementsPage.GetHeaderTxt2());
+            //elementsPage.GetHeaderTxt2();
+            //Console.WriteLine(elementsPage.GetHeaderTxt2());
             //TestContext.Out.WriteLine(elementsPage.GetHeaderTxt2());
         }
 
