@@ -3,7 +3,8 @@
     "browser": "chrome",
     "arguments": [
       "--start-maximized",
-      "--incognito"
+      "--incognito",
+      "--headless"
     ],
     "defaultTimeout": 60,
     "pollingInterval": 5
