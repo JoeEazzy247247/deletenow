@@ -11,5 +11,6 @@ Scenario: Navigation test
 	When I click Elements
 	Then I am on Elements page
 
+@ignore
 Scenario: Generate Random email
 	Given I have domain name as test@abc.com email
