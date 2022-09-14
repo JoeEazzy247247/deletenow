@@ -5,7 +5,7 @@ Simple calculator for adding **two** numbers
 Link to a feature: [Calculator](deletenow/Features/Calculator.feature)
 ***Further read***: **[Learn more about how to generate Living Documentation](https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Generating-Documentation.html)**
 
-@ignore
+@Navigation
 Scenario: Navigation test
 	Given I am on site 
 	When I click Elements
